@@ -1,4 +1,4 @@
-# Hecuba Documentation
+# Proteus Documentation
 
 This is a documentation site for [proteus](https://proteus.pingdev.tools).
 
