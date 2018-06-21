@@ -14,17 +14,17 @@ We recommend that you read these guides, if possible, in this order:
 An overview of Proteus with a quick tutorial that helps you get started with it. It 
 should take about X minutes to read and study the provided code samples. 
 
-### [Migrating Schema](/articles/schema.html)
+### [Migrating Schema](/articles/migrating_schema.html)
 
 An overview of how Proteus can be used to migrate schema changes in a safe way: allowing
 safe operations, and putting safe practices on dangerous operations.
 
-### [Migrating Data](/articles/data.html)
+### [Migrating Data](/articles/migrating_data.html)
 
 An overview of how Proteus can be used to add data to new tables and new columns, in order
 to allow new tables to be queried. 
 
-### [Deploying Artifacts to a Maven Repository](/artifacts/maven-artifacts.html)
+### [Deploying Artifacts to a Maven Repository](/articles/maven_artifacts.html)
 
 By default, Proteus assumes your files are on a file system. In a production pipeline environment,
 these files will want to be versioned artifacts. This guide covers how to build a sample project
